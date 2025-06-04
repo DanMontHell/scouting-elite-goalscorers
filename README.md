@@ -1,4 +1,4 @@
-# Finding an Elite Goalscorer with Data & Machine Learning
+# Scouting Europe’s Next Top Striker: A Machine Learning Approach
 
 This project uses unsupervised machine learning to identify elite strikers from Europe’s top five leagues in the 2024/25 season. The goal: to create a data-driven transfer shortlist — with **Mateo Retegui** emerging as the top recommendation.
 
