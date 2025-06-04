@@ -43,6 +43,7 @@ Use Opta player performance data to uncover hidden and elite forward talent, wit
   - 📈 **16 clusters**
   - 💡 **Silhouette Score**: 0.62
 
+![clusterplot](https://github.com/DanMontHell/scouting-elite-goalscorers/blob/main/dbscan.png)
 ---
 
 ## ⭐ Cluster 1: The Elite Scorers
